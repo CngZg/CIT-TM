@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CIT - App para Evento del Día del Ingeniero
 
 Es una aplicación sencilla hecha con react, tailwind, y tensorflow. Donde se pueden detectar imágenes de perros y gatos.
@@ -16,3 +17,7 @@ _**PASO 3.**_ Listo, ya puedes reaizar las detecciones. Apareciendo en un recuad
 ![image](https://github.com/user-attachments/assets/d1ca6dd8-faaa-4a76-82b4-5586decef740)
 
 *NOTA: HAY UN PEQUEÑO BUG A LA HORA DE APAGAR LA CÁMARA, SI ES PULSADO VARIAS VECES EL BOTÓN.*
+=======
+# CIT-TM
+This is a simple web app built with React that uses a model trained with Google Teachable Machine. Test it out locally!
+>>>>>>> 2aa7f22a79eefd60e37c44ff0f0e3055ef1f632a
