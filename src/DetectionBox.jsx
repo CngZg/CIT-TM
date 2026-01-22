@@ -149,7 +149,7 @@ export const DetectionBox = () => {
         {confirmar && (
           <div className="bg-white font-extrabold text-center text-green-600 p-5 rounded-md shadow-md mb-5">
             {!onDetection
-              ? "¡Press agaian to wake up the machine!"
+              ? "¡Press again to wake up the machine!"
               : "¡Press again to turn off the machine!"}
           </div>
         )}
